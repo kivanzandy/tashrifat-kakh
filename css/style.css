@@ -118,7 +118,7 @@ h2{
 	content:" , ";
 }
 .color{
-	color: #f0ce77;
+	color: #02a200;
 	font-family: 'Merienda', serif;
 }
 .divider{
@@ -144,7 +144,7 @@ h2{
 .button{
 	color: #fff;
 	padding: 8px 10px;
-	background-color: #3a321d;
+	background-color: #99028f;
 }
 /*Line Divisor*/
 .divisor{
@@ -205,7 +205,7 @@ h2{
 	text-align: center;
 }
 .sep_title span.subtitle {				
-	color: #b49b61;
+	color: #000000;
 	font-size: 14px;
 	position: relative;
 }
@@ -627,22 +627,22 @@ aside form .button{
 /* Footer ----------------------------*/
 footer{
 	margin-top: 67px;
-	border-top: 6px solid #665d2f;	
+	border-top: 6px solid #d057c1;	
 	padding: 37px 20px 60px 20px;
 }
 footer h2{
 	color: #f0ce77;
 }
 footer p{
-	color: #777570;
+	color: #ffffff;
 	margin-bottom: 14px;
 }
 .lastes img{
 	margin-bottom: 14px;
-	border: 5px solid #4a4926;
+	border: 5px solid #b93f44;
 }
 .lastes span{
-	color: #656459;
+	color: #ffffff;
 	margin-bottom: 18px;
 	margin-top: 7px;
 }
@@ -650,17 +650,17 @@ footer p{
 	padding-right: 20px;
 }
 .lastes p,footer a{
-	color: #cbc8bf;
+	color: #ffffff;
 }
 .working_hours li span{
 	float: left;
 	padding-left: 7%;
-	color: #777570;
+	color: #ffffff;
 }
 .working_hours li{
 	list-style: none;
 	margin-bottom: 14px;
-	color: #777570;
+	color: #ffffff;
 	font-size: 14px;
 	font-family: 'Monda', sans-serif;
 }
@@ -668,9 +668,9 @@ footer p{
 	margin: 0;
 }
 .copry{
-	background-color: #3a321d;
-	border-top: 2px solid #665d2f;
-	color: #8a8882;
+	background-color: #7f1569;
+	border-top: 3px solid #e69fea;
+	color: #ffffff;
 	padding: 30px 20px 10px 20px;
 }
 .copry ul{
@@ -683,7 +683,7 @@ footer p{
 	padding-left: 45px;
 }
 .copry ul li a{
-	color: #8a8882;
+	color: #ffffff;
 }
 .copry ul li a:hover, .copry p:hover{
 	color:#94928b;
